@@ -2,7 +2,7 @@ public class DuplicateCharacters {
      public static void main(String[] args) {    
         String string1 = "Great responsibility";    
         int count;    
-        int count2:    
+        int don1;    
         //Converts given string into character array    
         char string[] = string1.toCharArray();    
             
